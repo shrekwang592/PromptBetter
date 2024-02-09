@@ -31,6 +31,7 @@ https://github.com/yhfgyyf/chatgpt-fine-tuning
 
 ### Prompt tuning
 [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/abs/2101.00190)
+![Prefix-Tuning](https://github.com/shrekwang592/PromptBetter/blob/main/prefix-tuning.JPG)
 
 ## Top Collections
 Visit these collections of great repositories for more helpful resources:
