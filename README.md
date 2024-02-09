@@ -18,6 +18,7 @@ For software to check and protect against illicit activities in AI outputs, visi
 
 ## Retrieval Augmented Generation
 https://pub.towardsai.net/advanced-rag-techniques-an-illustrated-overview-04d193d8fec6
+RAG.JPG
 
 ## Top Collections
 Visit these collections of great repositories for more helpful resources:
