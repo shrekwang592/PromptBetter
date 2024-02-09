@@ -2,13 +2,13 @@
 A personal collection of prompt
 
 ## OpenAI prompt engineering guide
-For the official OpenAI guide for prompt engineering, check out the [guide here](https://platform.openai.com/docs/guides/prompt-engineering).
+Official OpenAI guide for prompt engineering [guide here](https://platform.openai.com/docs/guides/prompt-engineering).
 
 ## Anthropic Claude 
-For optimizing your prompt with Anthropic Claude, view the [documentation here](https://docs.anthropic.com/claude/docs/optimizing-your-prompt).
+Anthropic Claude [documentation here](https://docs.anthropic.com/claude/docs/optimizing-your-prompt).
 
 ## Stable Diffusion 
-For models and Loras, view the [sheets here](https://docs.google.com/spreadsheets/d/19e7K1duTi8lOzzd569Qn_BKeS8hISXTxIFjiD72zTcc/edit#gid=0).
+For models and Loras [sheets here](https://docs.google.com/spreadsheets/d/19e7K1duTi8lOzzd569Qn_BKeS8hISXTxIFjiD72zTcc/edit#gid=0).
 
 ## Prompt security
 For software to check and protect against illicit activities in AI outputs, visit this [GitHub repository](https://github.com/protectai/llm-guard).
@@ -22,20 +22,17 @@ https://pub.towardsai.net/advanced-rag-techniques-an-illustrated-overview-04d193
 
 ## Fine Tuning
 https://platform.openai.com/finetune
-
 ### Simple py
 https://github.com/yhfgyyf/chatgpt-fine-tuning
-
 ### Parameter-Efficient Fine-Tuning
 [Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning](https://arxiv.org/abs/2303.15647)
 ![unsupervised](https://github.com/shrekwang592/PromptBetter/blob/main/unsupervised.JPG)
-
 ### Prompt tuning
 [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/abs/2101.00190)
 ![Prefix-Tuning](https://github.com/shrekwang592/PromptBetter/blob/main/prefix-tuning.JPG)
 
-## Top Collections
-Visit these collections of great repositories for more helpful resources:
+## Idea sources
+Collections of great repositories for more helpful resources:
 - [ChatGPT repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories)
 - [Various AI resources](https://aboqbe7f4x.feishu.cn/wiki/ReqDwE6dNisHt8kIFnYcWeQwnde)
 
