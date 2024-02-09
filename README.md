@@ -1,5 +1,5 @@
 # PromptBetter
-A collection of everything about prompts for LLMs, input/output scanners, and other useful repositories for chatbots.
+A collection of everything about prompts for LLMs
 
 ## OpenAI prompt engineering guide
 For the official OpenAI guide for prompt engineering, check out the [guide here](https://platform.openai.com/docs/guides/prompt-engineering).
