@@ -23,6 +23,15 @@ https://pub.towardsai.net/advanced-rag-techniques-an-illustrated-overview-04d193
 ## Fine Tuning
 https://platform.openai.com/finetune
 
+### simple py
+https://github.com/yhfgyyf/chatgpt-fine-tuning
+
+### NLP Parameter-Efficient Fine-Tuning
+[Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning](https://arxiv.org/abs/2303.15647)
+
+### Prompt tuning
+[Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/abs/2101.00190)
+
 ## Top Collections
 Visit these collections of great repositories for more helpful resources:
 - [ChatGPT repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories)
