@@ -20,6 +20,9 @@ For software to check and protect against illicit activities in AI outputs, visi
 https://pub.towardsai.net/advanced-rag-techniques-an-illustrated-overview-04d193d8fec6
 ![RAG](https://github.com/shrekwang592/PromptBetter/blob/main/RAG.JPG)
 
+## Fine Tuning
+https://platform.openai.com/finetune
+
 ## Top Collections
 Visit these collections of great repositories for more helpful resources:
 - [ChatGPT repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories)
