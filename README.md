@@ -51,8 +51,11 @@ Check out these Discord bots:
 8. **iGuard** - Protect user or other bot's prompt from being hacked. [Authorize here](https://discord.com/oauth2/authorize?client_id=1205376719662616598&permissions=8797166831616&scope=bot&msToken=C3vl_vpUD-nhAogp1P4gLj2XxemgPLlcUA18iammEm0fb0B1fdhshWWSNWfoE8ImdSNaVfa9DphwYU1Zso5KA2n4wvb0k5Eu8W6aec_zQbQ16ykvix19Bg==&X-Bogus=DFSzswVL76GANc-ctqhyNPOckgCm)
 
 ## Questions and thoughts
-1. How can we be more accurate with developing prompts for LLM? Having a thorough understanding of the model's capabilities and limitations, and designing prompts that aim to efficiently utilize these.
-2. How can we save more money when developing prompts for LLM?  We could economize by reducing the complexity of prompts and optimizing the implementation process...
-3. How to make the system simpler and easier to maintain when developing prompts for LLM? Structured and modular programming habits/document the process accurately/standard coding conventions/easy debugging and updates.
+1. How can we be more accurate with developing prompts for LLM?
+   Having a thorough understanding of the model's capabilities and limitations, and designing prompts that aim to efficiently utilize these.
+2. How can we save more money when developing prompts for LLM?
+   We could economize by reducing the complexity of prompts and optimizing the implementation process...
+3. How to make the system simpler and easier to maintain when developing prompts for LLM?
+   Structured and modular programming habits/document the process accurately/standard coding conventions/easy debugging and updates.
 
 
