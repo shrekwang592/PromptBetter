@@ -1,5 +1,5 @@
 # PromptBetter
-A personal collection of prompt
+A personal collection of prompts
 
 ## OpenAI prompt engineering guide
 Official OpenAI guide for prompt engineering [guide here](https://platform.openai.com/docs/guides/prompt-engineering).
@@ -58,7 +58,7 @@ Check out these Discord bots:
 1. How can we be more accurate with developing prompts for LLM?
    Having a thorough understanding of the model's capabilities and limitations, and designing prompts that aim to efficiently utilize these. Chain of Thoughts, Tree-of-thought, Self-Consistency 
 2. How can we save more money when developing prompts for LLM?
-   We could economize by reducing the complexity of prompts and optimizing the implementation process...
+   We could economize by reducing the complexity of prompts and optimizing the implementation process.
 3. How to make the system simpler and easier to maintain when developing prompts for LLM?
    Structured and modular programming habits/document the process accurately/standard coding conventions/easy debugging and updates.
 
