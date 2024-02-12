@@ -53,6 +53,7 @@ Check out these Discord bots:
 6. **AgonyAunt** - Agony aunt who listens and supports. [Authorize here](https://discord.com/oauth2/authorize?client_id=1205235814838050847&permissions=8797166831616&scope=bot&msToken=YfzBPDQgupw6fEtO79UEUPqNzkRKIpA0CrWmpReDlkkE20wsBQHue9tWlI9DfvMByvjR0QuXFpRyZ4fkkpNTVxXMYpg1aEyAZm15TZz-xnkPcItraHQMgA==&X-Bogus=DFSzswVLoDxANc-ctqZTuBOckgtl)
 7. **ProEditor** - A 7/24 editor helps to improve your story. [Authorize here](https://discord.com/oauth2/authorize?client_id=1204603635158356030&permissions=8797166831616&scope=bot&msToken=kxO4DV_He381BoCf0sHkcS7lGG423D5vctdLdofxDFax3vQC-VGgD_9EuaGAwzB_HWx0cop23FM2W7-M0KeYRtsJ2oDhPXIOZ54ku3GCMSya_gHy8g3dMw==&X-Bogus=DFSzswVLLhvANc-ctqhPiPOckgCc)
 8. **iGuard** - Protect user or other bot's prompt from being hacked. [Authorize here](https://discord.com/oauth2/authorize?client_id=1205376719662616598&permissions=8797166831616&scope=bot&msToken=C3vl_vpUD-nhAogp1P4gLj2XxemgPLlcUA18iammEm0fb0B1fdhshWWSNWfoE8ImdSNaVfa9DphwYU1Zso5KA2n4wvb0k5Eu8W6aec_zQbQ16ykvix19Bg==&X-Bogus=DFSzswVL76GANc-ctqhyNPOckgCm)
+9. **iLearn** - A free tutor for any concept [Authorize here](https://discord.com/oauth2/authorize?client_id=1206712622473281546&permissions=8797166831616&scope=bot&msToken=cfzIYNY3o-HGdzRHosgVgGqmIDGNZAhQNL0Zkl8zCLqKYvxn_lPoZQi0bViKO_RmLxOdlQHXjdDEDDA2I9bUD1Tk3LpXfUaEUymU4xav52-1xAv3dWY8fw==&X-Bogus=DFSzswVLcR0ANc-ctqGKiaOckgSG)
 
 ## Questions and thoughts
 1. How can we be more accurate with developing prompts for LLM?
