@@ -63,5 +63,6 @@ Check out these Discord bots:
 3. How to make the system simpler and easier to maintain when developing prompts for LLM?
    Structured and modular programming habits/document the process accurately/standard coding conventions/easy debugging and updates.
 ### What is the area we should focus on? about the great thoughts
+Definitely not the "most responsible" [Goody-2](https://www.goody2.ai/chat) 
 
 
