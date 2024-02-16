@@ -56,19 +56,30 @@ Check out these Discord bots:
 2. **Dream Realization** - Create a unique story with your kid and draw a picture when you need one. [Authorize here](https://discord.com/oauth2/authorize?client_id=1203780128149082112&permissions=8797166831616&scope=bot&msToken=lV1zBjMa7PhizeDt_3tzukxMpQEUBO6y_jee-RN5K2d8Er5DAvhBtDEBWMeBflVYw3hDgmpz3F5mfKG5i48OEdQlG_Jtm021GxX9qdQLXd3CxjjwkWDg&X-Bogus=DFSzswVLm9GANc-ctqwBHPOckgSI)
 3. **TreeHole** - A tree hole to dump any thought. [Authorize here](https://discord.com/oauth2/authorize?client_id=1205057115748831273&permissions=8797166831616&scope=bot&msToken=tDW-GB7-sntvcllXG00bv0QJNNq1ZCP5CFVfMyRp-OlLKNX7ml_jTSjwZwTwkmcSF8XVozhNUOX2FIJvS5DhMZ-H0OeSIJ4xSY3Aim3582szIuqgsEC4eQ==&X-Bogus=DFSzswVLTAGANc-ctqkpWPOckgeY)
 4. **WordAdventure** - A unique Word Adventure every time. [Authorize here](https://discord.com/oauth2/authorize?client_id=1205060987271651338&permissions=8797166831616&scope=bot&msToken=OI-WieIoT3wGjYs6R17sgh1olCkhu7Of1WRbAgYRwW304Ode6hDT7ZTyKBvEKA9suhLOecJES7dgB6sDkqFlfh9OBM31uAJ2yu5SzlI9uUhFJu83F0XmWQ==&X-Bogus=DFSzswVLhnvANc-ctqk/TBOckgtB)
-5. **MrRight** - Mr. Right is by your side, your happiness is all he cares. [Authorize here](https://discord.com/oauth2/authorize?client_id=1205232083962695720&permissions=8797166831616&scope=bot&msToken=hKZi6LLKxwWwEm1dY3jXVwRvNIl44bdBZ6Nn1u7zbzxM1goP-FmfuqTHib_iglPrHhMs7rFwbB0PtvHg2aCVwJn8grL1Qxjq8UcZXEKEtFuiwpwuctB7oQ==&X-Bogus=DFSzswVLpsJANc-ctqZmWPOckgCl)
+5. **MrRight** - Mr. Right is by your side, your happiness is all he cares about. [Authorize here](https://discord.com/oauth2/authorize?client_id=1205232083962695720&permissions=8797166831616&scope=bot&msToken=hKZi6LLKxwWwEm1dY3jXVwRvNIl44bdBZ6Nn1u7zbzxM1goP-FmfuqTHib_iglPrHhMs7rFwbB0PtvHg2aCVwJn8grL1Qxjq8UcZXEKEtFuiwpwuctB7oQ==&X-Bogus=DFSzswVLpsJANc-ctqZmWPOckgCl)
 6. **AgonyAunt** - Agony aunt who listens and supports. [Authorize here](https://discord.com/oauth2/authorize?client_id=1205235814838050847&permissions=8797166831616&scope=bot&msToken=YfzBPDQgupw6fEtO79UEUPqNzkRKIpA0CrWmpReDlkkE20wsBQHue9tWlI9DfvMByvjR0QuXFpRyZ4fkkpNTVxXMYpg1aEyAZm15TZz-xnkPcItraHQMgA==&X-Bogus=DFSzswVLoDxANc-ctqZTuBOckgtl)
 7. **ProEditor** - A 7/24 editor helps to improve your story. [Authorize here](https://discord.com/oauth2/authorize?client_id=1204603635158356030&permissions=8797166831616&scope=bot&msToken=kxO4DV_He381BoCf0sHkcS7lGG423D5vctdLdofxDFax3vQC-VGgD_9EuaGAwzB_HWx0cop23FM2W7-M0KeYRtsJ2oDhPXIOZ54ku3GCMSya_gHy8g3dMw==&X-Bogus=DFSzswVLLhvANc-ctqhPiPOckgCc)
 8. **iGuard** - Protect user or other bot's prompt from being hacked. [Authorize here](https://discord.com/oauth2/authorize?client_id=1205376719662616598&permissions=8797166831616&scope=bot&msToken=C3vl_vpUD-nhAogp1P4gLj2XxemgPLlcUA18iammEm0fb0B1fdhshWWSNWfoE8ImdSNaVfa9DphwYU1Zso5KA2n4wvb0k5Eu8W6aec_zQbQ16ykvix19Bg==&X-Bogus=DFSzswVL76GANc-ctqhyNPOckgCm)
 9. **iLearn** - Learn anything in a structured flow with tests [Authorize here](https://discord.com/oauth2/authorize?client_id=1206712622473281546&permissions=8797166831616&scope=bot&msToken=cfzIYNY3o-HGdzRHosgVgGqmIDGNZAhQNL0Zkl8zCLqKYvxn_lPoZQi0bViKO_RmLxOdlQHXjdDEDDA2I9bUD1Tk3LpXfUaEUymU4xav52-1xAv3dWY8fw==&X-Bogus=DFSzswVLcR0ANc-ctqGKiaOckgSG)
 
 ## Questions and thoughts
-1. How can we be more accurate with developing prompts for LLM?
+1. Is ChatGPT a paradigm shift or an extension of past AI?
+   ChatGPT is BOTH an evolution of past AI and a novel shift towards advanced AI capabilities. While it continues the trajectory of previous advancements by exhibiting nuance and context-awareness during interactions, its ability to generate remarkably human-like conversations signals a groundbreaking leap forward in AI development.
+2. What level will ChatGPT reach within the next few years?
+   It's speculative to pinpoint the exact level ChatGPT will reach within two years. Yet considering the continual pace of progress in AI, we can anticipate major enhancements in ChatGPT's performance and capabilities. Expect an evolution towards even more sophisticated and human-esque dialogues.
+3. Does ChatGPT and GPT have barriers?
+   Indeed, proprietary technologies such as ChatGPT and GPT have inherent barriers - high development costs, intellectual property rights, and the necessity for colossal computational resources and data for model training. 
+4. How should we use ChatGPT in the future?
+   As for utilizing ChatGPT, it shouldn't be seen merely as a tool, but as a multifaceted application spanning various use cases. This includes virtual assistants, content creation, tutoring, and role-playing simulations. The key is not just to use but to adapt its capabilities to suit specific needs and opportunities.
+5. What is the fundamental difference between humans and ChatGPT? What is the impact on human society?
+   Distinguishing humans from ChatGPT boils down to aspects like consciousness and emotion. Despite its advanced functionality, ChatGPT lacks self-awareness, it devoids the depth of emotions, experiences, and the ability to perceive the subjectivity of the human condition. Impact on societal dynamics is inevitable with advancements like ChatGPT. This could imply greater dependency on AI for tasks traditionally performed by humans, thereby reshaping job roles and human interactions. However, it's essential to view these technologies not as a threat but as an augmenter of human potential.
+6. How can we be more accurate with developing prompts for LLM?
    Having a thorough understanding of the model's capabilities and limitations, and designing prompts that aim to efficiently utilize these. Chain of Thoughts, Tree-of-thought, Self-Consistency 
-2. How can we save more money when developing prompts for LLM?
+7. How can we save more money when developing prompts for LLM?
    We could economize by reducing the complexity of prompts and optimizing the implementation process.
-3. How to make the system simpler and easier to maintain when developing prompts for LLM?
+8. How to make the system simpler and easier to maintain when developing prompts for LLM?
    Structured and modular programming habits/document the process accurately/standard coding conventions/easy debugging and updates.
+   
 ### What is the area we should focus on? about the great thoughts of a powerful, trustworthy, personalized agent
 Not the "most responsible" [Goody-2](https://www.goody2.ai/chat)
 Neither a [clone](https://github.com/danny-avila/LibreChat)
