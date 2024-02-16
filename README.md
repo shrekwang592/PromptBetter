@@ -7,6 +7,9 @@ Official OpenAI guide for prompt engineering [guide here](https://platform.opena
 ## Anthropic Claude 
 Anthropic Claude [documentation here](https://docs.anthropic.com/claude/docs/optimizing-your-prompt).
 
+## Gemini
+1M or 10M tokens [Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/#sundar-note)
+
 ## Microsoft Promptbase
 [Medprompt](https://github.com/microsoft/promptbase)
 
