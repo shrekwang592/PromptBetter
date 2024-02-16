@@ -1,11 +1,12 @@
 # PromptBetter
 A personal collection of prompts
 
-## OpenAI prompt engineering guide
-Official OpenAI guide for prompt engineering [guide here](https://platform.openai.com/docs/guides/prompt-engineering).
-
 ## Anthropic Claude 
 Anthropic Claude [documentation here](https://docs.anthropic.com/claude/docs/optimizing-your-prompt).
+https://docs.google.com/spreadsheets/d/19jzLgRruG9kjUQNKtCg1ZjdD6l6weA6qRXG5zLIAhC8/edit#gid=150872633
+
+## OpenAI prompt engineering guide
+Official OpenAI guide for prompt engineering [guide here](https://platform.openai.com/docs/guides/prompt-engineering).
 
 ## Gemini
 1M or 10M tokens [Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/#sundar-note)
