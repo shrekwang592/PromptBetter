@@ -83,5 +83,5 @@ Check out these Discord bots:
 ### What is the area we should focus on? about the great thoughts of a powerful, trustworthy, personalized agent
 Not the "most responsible" [Goody-2](https://www.goody2.ai/chat)
 Neither a [clone](https://github.com/danny-avila/LibreChat)
-
+Building agents should be the long-term focus on mine.
 
