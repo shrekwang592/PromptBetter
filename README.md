@@ -41,6 +41,9 @@ https://github.com/yhfgyyf/chatgpt-fine-tuning
 [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/abs/2101.00190)
 ![Prefix-Tuning](https://github.com/shrekwang592/PromptBetter/blob/main/prefix-tuning.JPG)
 
+## Evaluation
+Large Language Model (LLM) Evaluation Metrics – [BLEU and ROUGE](https://mlexplained.blog/2023/07/08/large-language-model-llm-evaluation-metrics-bleu-and-rouge/)
+
 ## Idea sources
 Collections of great repositories for more helpful resources:
 - [ChatGPT repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories)
