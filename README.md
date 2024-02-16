@@ -85,5 +85,5 @@ Not the "most responsible" [Goody-2](https://www.goody2.ai/chat)
 
 Neither a [clone](https://github.com/danny-avila/LibreChat)
 
-Building agents should be the long-term focus of mine.
+Building agents is my long-term focus.
 
