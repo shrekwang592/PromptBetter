@@ -33,10 +33,10 @@ https://pub.towardsai.net/advanced-rag-techniques-an-illustrated-overview-04d193
 [Apache Kafka + Vector Database](https://www.kai-waehner.de/blog/2023/11/08/apache-kafka-flink-vector-database-llm-real-time-genai)
 
 ## RAG Evaluation 4 questions
-1. Is the model's output adhering to the given context?
-2. is the model's output fully & comprehensively answering the question>?
-3. Are the retrieved chunks attributing to the model's response?
-4. How much of the attributed chunks are being used to generate the model's response?
+1. Is the model's output adhering to the given context? - Context adherence
+2. is the model's output fully & comprehensively answering the question? - Completeness
+3. Are the retrieved chunks attributing to the model's response? - Chunk attribution
+4. How much of the attributed chunks are being used to generate the model's response? - chunk utilization
 
 ## Fine Tuning
 https://platform.openai.com/finetune
