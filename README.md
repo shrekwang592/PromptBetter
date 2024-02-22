@@ -49,6 +49,7 @@ Large Language Model (LLM) Evaluation Metrics – [BLEU and ROUGE](https://mlexp
 
 ## Idea sources
 Collections of great repositories for more helpful resources:
+- [MetaGPT](https://github.com/geekan/MetaGPT)
 - [ChatGPT repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories)
 - [Various AI resources](https://aboqbe7f4x.feishu.cn/wiki/ReqDwE6dNisHt8kIFnYcWeQwnde)
 
