@@ -30,8 +30,13 @@ For models and Loras [sheets here](https://docs.google.com/spreadsheets/d/19e7K1
 ## Retrieval Augmented Generation
 https://pub.towardsai.net/advanced-rag-techniques-an-illustrated-overview-04d193d8fec6
 ![RAG](https://github.com/shrekwang592/PromptBetter/blob/main/RAG.JPG)
-
 [Apache Kafka + Vector Database](https://www.kai-waehner.de/blog/2023/11/08/apache-kafka-flink-vector-database-llm-real-time-genai)
+
+## RAG Evaluation 4 questions
+1. Is the model's output adhering to the given context?
+2. is the model's output fully & comprehensively answering the question>?
+3. Are the retrieved chunks attributing to the model's response?
+4. How much of the attributed chunks are being used to generate the model's response?
 
 ## Fine Tuning
 https://platform.openai.com/finetune
