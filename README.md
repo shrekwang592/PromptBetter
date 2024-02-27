@@ -25,6 +25,7 @@ For models and Loras [sheets here](https://docs.google.com/spreadsheets/d/19e7K1
 
 ## Ollama 
 
+[Quick Start](https://github.com/ollama/ollama?tab=readme-ov-file#quickstart)
 [Download](https://ollama.com/download)
 
 ## Prompt security
