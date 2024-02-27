@@ -23,6 +23,10 @@ Official OpenAI guide for prompt engineering [guide here](https://platform.opena
 
 For models and Loras [sheets here](https://docs.google.com/spreadsheets/d/19e7K1duTi8lOzzd569Qn_BKeS8hISXTxIFjiD72zTcc/edit#gid=0).
 
+## Ollama 
+
+[Download]([https://ollama.com](https://ollama.com/download))
+
 ## Prompt security
 
 - [llm-guard](https://github.com/protectai/llm-guard)
