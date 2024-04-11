@@ -21,10 +21,9 @@ def to_keywords(input_string):
     return ' '.join(filtered_sentence)
 es = Elasticsearch(
     hosts=['http://172.18.0.2:9200'],
-    http_auth=("elastic", "nOlNvm1Z7_8*SZQaMR*H"),
+    http_auth=("elastic", "localSec"),
 )
 index_name = "xi_index20240222"
-# Kibana eyJ2ZXIiOiI4LjEyLjIiLCJhZHIiOlsiMTcyLjE4LjAuMjo5MjAwIl0sImZnciI6ImIwZTVkYjYzNTYxZjkzNzQxYmJiNTNmOWRlNjU0ZjFjMjVlYTQyMzhiMDA1ZjgzZmEwYWI3ZmZmOGQ5YWQzYjkiLCJrZXkiOiJ2cWFVLUkwQnlpVTAxbkJFVHQzLTpTM250NURpc1FmQ0x0RXhQNGVxRUJRIn0=
 
 if es.indices.exists(index=index_name):
     es.indices.delete(index=index_name)
