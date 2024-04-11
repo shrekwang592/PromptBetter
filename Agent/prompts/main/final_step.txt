@@ -1,0 +1,9 @@
+Your task is:
+{task_description}
+
+This is the process of your thoughts and results from tools or functions
+{short_term_memory}
+
+You completed the task.
+Now provide the final answer based on the results.
+Straight answer without any more explaination.

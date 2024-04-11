@@ -23,7 +23,7 @@ Official OpenAI guide for prompt engineering [guide here](https://platform.opena
 
 For models and Loras [sheets here](https://docs.google.com/spreadsheets/d/19e7K1duTi8lOzzd569Qn_BKeS8hISXTxIFjiD72zTcc/edit#gid=0).
 
-## Ollama 
+## Ollama
 
 [Quick Start](https://github.com/ollama/ollama?tab=readme-ov-file#quickstart)
 [Download](https://ollama.com/download)

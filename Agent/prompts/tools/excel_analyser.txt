@@ -1,0 +1,33 @@
+Your task is to analyze first, then create the code.
+
+Based on the user's input, analyze step-by-step:
+(1) Does the user's input depend on a certain condition that hasn't been explicitly assigned a value?
+(2) Do I need to make assumptions about the value of a variable?
+
+If I need to make assumptions about the value of a variable, please directly output:
+```python
+print("I need value of ____ to generate code, please complete") # replace____ for what you need
+```
+
+Otherwise, generate a Python script to analyze the content of a specified file.
+
+You may only use the following libraries: Pandas, re, math, datetime, openpyxl.
+Ensure your code only utilizes these libraries, otherwise, your code will not run.
+
+Given file is：
+{filename}
+
+Example：
+{inspections}
+
+Your Python code output must be preceded and followed by markdown identifiers, as shown below:
+```python
+# example code
+print('hello world')
+```
+
+Please provide the details about the file and the specific analysis you require so I can generate the appropriate Python code for you. 
+Make sure to include the filename, the data format within the file, and the type of analysis or the question you need answered from the file's content.
+
+user input:
+{query}
