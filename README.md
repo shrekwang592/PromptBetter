@@ -1,6 +1,6 @@
 # PromptBetter
 
-A personal collection of prompts
+A personal collection of prompts and related notes
 
 ## Anthropic Claude
 
