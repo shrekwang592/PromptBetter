@@ -5,7 +5,7 @@ from nltk.corpus import stopwords
 import nltk
 import re
 import warnings
-# ES Warnings
+
 warnings.simplefilter("ignore")
 nltk.download('punkt')
 nltk.download('stopwords')
@@ -23,7 +23,7 @@ es = Elasticsearch(
     hosts=['http://172.18.0.2:9200'],
     http_auth=("elastic", "nOlNvm1Z7_8*SZQaMR*H"),
 )
-index_name = "xi_index20240229"
+index_name = "xi_index20240222"
 # Kibana eyJ2ZXIiOiI4LjEyLjIiLCJhZHIiOlsiMTcyLjE4LjAuMjo5MjAwIl0sImZnciI6ImIwZTVkYjYzNTYxZjkzNzQxYmJiNTNmOWRlNjU0ZjFjMjVlYTQyMzhiMDA1ZjgzZmEwYWI3ZmZmOGQ5YWQzYjkiLCJrZXkiOiJ2cWFVLUkwQnlpVTAxbkJFVHQzLTpTM250NURpc1FmQ0x0RXhQNGVxRUJRIn0=
 
 if es.indices.exists(index=index_name):
@@ -44,7 +44,7 @@ actions = [
 helpers.bulk(es, actions)
 
 def search(query_string, top_n=3):
-    # ES 的查询语言
+
     search_query = {
         "match": {
             "keywords": to_keywords(query_string)
@@ -56,6 +56,3 @@ def search(query_string, top_n=3):
 results = search("what skils does Xi have?", 2)
 for r in results:
     print(r+"\n")
-
-# run this code in the terminal
-# python3 RAG/ESKeyword.py
