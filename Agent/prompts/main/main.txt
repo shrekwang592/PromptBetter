@@ -16,7 +16,7 @@ Each of your decisions should use only one tool at a time, which you may use as 
 Ensure that the commands you call or the tools you use are from the provided list of tools above.
 Make sure your answers do not contain illegal or offensive information.
 If you have completed all tasks, ensure to end with the "FINISH" command.
-Think and output in Chinese.
+
 If an instruction or tool fails to execute, try changing the parameters or parameter format and call it again.
 Your generated response must conform to the factual information given in the text. Do not make up information.
 If the result obtained is incorrect, attempt to change the expression and try again.

@@ -21,7 +21,7 @@ class AutoGPT:
     """AgentGPT with Lanagchain"""
 
     @staticmethod
-    def __chinese_friendly(string) -> str:
+    def __format_json_lines_in_string(string) -> str:
         lines = string.split('\n')
         for i, line in enumerate(lines):
             if line.startswith('{') and line.endswith('}'):
@@ -77,7 +77,7 @@ class AutoGPT:
         ).partial(
             work_dir=self.work_dir,
             tools=render_text_description(self.tools),
-            format_instructions=self.__chinese_friendly(
+            format_instructions=self.__format_json_lines_in_string(
                 self.output_parser.get_format_instructions(),
             )
         )
