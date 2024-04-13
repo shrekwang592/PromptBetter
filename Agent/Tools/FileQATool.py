@@ -59,6 +59,7 @@ def ask_docment(
         ),  
         chain_type="stuff",  
         retriever=db.as_retriever()  
+    )
     response = qa_chain.run(query + "(in english)")
     return response
 
