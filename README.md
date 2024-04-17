@@ -1,6 +1,6 @@
 # PromptBetter
 
-A personal collection of prompts and related notes
+A personal collection of [prompts](https://medium.com/the-generator/the-perfect-prompt-prompt-engineering-cheat-sheet-d0b9c62a2bba) and related notes
 
 ## Anthropic Claude
 
