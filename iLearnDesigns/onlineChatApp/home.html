@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Home</title>
+</head>
+<body>
+    <p>Welcome {{ username }}!</p>
+    <form action="/create_room" method="post">
+        <input type="text" name="roomname" placeholder="Enter room name" required/>
+        <button type="submit">Create Room</button>
+    </form>
+</body>
+</html>

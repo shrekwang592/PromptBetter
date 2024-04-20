@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Chat Room</title>
+</head>
+<body>
+    <h2>{{ roomname }}</h2>
+    <div id="chatbox"></div>
+    <input type="text" id="message_input" placeholder="Type your message here..."/>
+    <button onclick="sendMessage()">Send</button>
+    
+    <script src="//cdnjs.cloudflare.com/ajax/libs/socket.io/3.0.3/socket.io.js"></script>
+    <script type="text/javascript">
+        var socket = io.connect('http://' + document.domain + ':' + location.port);
+
+        function sendMessage(){
+            var input = document.getElementById("message_input");
+            socket.emit('send_message', {'message': input.value, 'username': '{{ username }}', 'room': '{{ roomname }}'});
+            input.value = '';
+        }
+
+        socket.on('receive_message', function(data) {
+            var chatbox = document.getElementById('chatbox');
+            chatbox.innerHTML += '<b>' + data.username + '</b>: ' + data.message + '<br/>';
+        });
+
+        // When the user enters the room.
+        socket.emit('join', {'username': '{{ username }}', 'room': '{{ roomname }}'});
+
+        // When the user leaves the room.
+        window.onbeforeunload = function(){
+            socket.emit('leave', {'username': '{{ username }}', 'room': '{{ roomname }}'});
+        };
+    </script>
+</body>
+</html>
