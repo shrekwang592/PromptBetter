@@ -1,10 +1,13 @@
-from flask import Flask
+from flask import Flask, jsonify, request, abort
+from flask_jwt_extended import (JWTManager, jwt_required, create_access_token)
 from flask_restx import Api, Resource, fields
 
 app = Flask(__name__)
 api = Api(app, version='1.0', title='Bookstore API',
     description='A simple Bookstore API',
 )
+app.config['JWT_SECRET_KEY'] = 'your_jwt_secret_key'
+jwt = JWTManager(app)
 
 ns = api.namespace('books', description='Books operations')
 
@@ -35,6 +38,7 @@ class BookList(Resource):
     @ns.doc('create_book')
     @ns.expect(book)
     @ns.marshal_with(book, code=201)
+    @jwt_required()
     def post(self):
         # Create a new book
         pass
@@ -50,6 +54,19 @@ class Book(Resource):
         pass
 
     # Additional methods for PUT and DELETE
+
+@app.route('/login', methods=['POST'])
+def login():
+    username = request.json.get('username', None)
+    password = request.json.get('password', None)
+    
+    # Validate username and password against your user database
+    # For example purposes, we'll assume they are valid
+    if username == 'admin' and password == 'password':
+        access_token = create_access_token(identity=username)
+        return jsonify(access_token=access_token)
+    else:
+        return abort(401)
 
 if __name__ == '__main__':
     app.run(debug=True)
