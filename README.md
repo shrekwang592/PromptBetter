@@ -48,6 +48,7 @@ For models and Loras [sheets here](https://docs.google.com/spreadsheets/d/19e7K1
 <https://pub.towardsai.net/advanced-rag-techniques-an-illustrated-overview-04d193d8fec6>
 ![RAG](https://github.com/shrekwang592/PromptBetter/blob/main/RAG.JPG)
 [Apache Kafka + Vector Database](https://www.kai-waehner.de/blog/2023/11/08/apache-kafka-flink-vector-database-llm-real-time-genai)
+[SentenceTransformers Documentation](https://sbert.net)
 
 ## RAG Evaluation 4 questions
 
