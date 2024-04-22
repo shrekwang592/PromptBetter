@@ -50,7 +50,8 @@ For models and Loras [sheets here](https://docs.google.com/spreadsheets/d/19e7K1
 - [Apache Kafka + Vector Database](https://www.kai-waehner.de/blog/2023/11/08/apache-kafka-flink-vector-database-llm-real-time-genai)
 - [Advanced RAG Techniques: an Illustrated Overview](https://pub.towardsai.net/advanced-rag-techniques-an-illustrated-overview-04d193d8fec6)
 - [Embedding models](https://platform.openai.com/docs/guides/embeddings) text-embedding-3-small	$0.02 / 1M tokens
-- Reciprocal Rank Fusion（RRF）$rrf(d)=\sum_{a\in A}\frac{1}{k+rank_a(d)}$
+- Reciprocal Rank Fusion（RRF）Milvus Weaviate Pinecone
+  $rrf(d)=\sum_{a\in A}\frac{1}{k+rank_a(d)}$
 
 
 ## RAG Evaluation 4 questions
