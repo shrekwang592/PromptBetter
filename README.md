@@ -52,7 +52,8 @@ For models and Loras [sheets here](https://docs.google.com/spreadsheets/d/19e7K1
 - [Embedding models](https://platform.openai.com/docs/guides/embeddings) text-embedding-3-small	$0.02 / 1M tokens
 - Reciprocal Rank Fusion（RRF）Milvus [Weaviate](https://weaviate.io/blog/hybrid-search-explained) [Pinecone](https://www.pinecone.io/learn/hybrid-search-intro/)
   $rrf(d)=\sum_{a\in A}\frac{1}{k+rank_a(d)}$
-
+- [RAG-fusion](https://github.com/Raudaschl/rag-fusion) more token, more time
+![RAG-fusion](https://github.com/shrekwang592/PromptBetter/blob/main/rag-fusion.jpg)
 
 ## RAG Evaluation 4 questions
 
