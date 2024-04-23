@@ -23,9 +23,10 @@ Official OpenAI guide for prompt engineering [guide here](https://platform.opena
 
 For models and Loras [sheets here](https://docs.google.com/spreadsheets/d/19e7K1duTi8lOzzd569Qn_BKeS8hISXTxIFjiD72zTcc/edit#gid=0).
 
-## Models IQ ranking
+## Models ranking
 
-[ais-ranked-by-iq-ai](https://www.maximumtruth.org/p/ais-ranked-by-iq-ai-passes-100-iq)
+- [chat-lmsys](https://chat.lmsys.org/)
+- [ais-ranked-by-iq-ai](https://www.maximumtruth.org/p/ais-ranked-by-iq-ai-passes-100-iq)
 
 ## Ollama
 
