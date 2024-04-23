@@ -23,6 +23,10 @@ Official OpenAI guide for prompt engineering [guide here](https://platform.opena
 
 For models and Loras [sheets here](https://docs.google.com/spreadsheets/d/19e7K1duTi8lOzzd569Qn_BKeS8hISXTxIFjiD72zTcc/edit#gid=0).
 
+## Models IQ ranking
+
+[ais-ranked-by-iq-ai](https://www.maximumtruth.org/p/ais-ranked-by-iq-ai-passes-100-iq)
+
 ## Ollama
 
 [Quick Start](https://github.com/ollama/ollama?tab=readme-ov-file#quickstart)
@@ -79,6 +83,17 @@ For models and Loras [sheets here](https://docs.google.com/spreadsheets/d/19e7K1
 
 [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/abs/2101.00190)
 ![Prefix-Tuning](https://github.com/shrekwang592/PromptBetter/blob/main/prefix-tuning.JPG)
+
+## GROQ
+
+- [Why GROQ](https://wow.groq.com/why-groq/)
+- [GROQ](https://console.groq.com/docs/quickstart)
+
+## GPUs
+
+- **Colab**：$9 https://colab.google.com
+- **Kaggle**：30 h weekly T4，P100 https://www.kaggle.com
+- **AutoDL**：Jupyter Notebook & ssh https://www.autodl.com
 
 ## Evaluation
 

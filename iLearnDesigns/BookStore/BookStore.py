@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, request, abort
+from flask import Flask, json, jsonify, request, Response, abort
 from flask_jwt_extended import (JWTManager, jwt_required, create_access_token)
 from flask_restx import Api, Resource, fields
 
@@ -54,6 +54,21 @@ class Book(Resource):
         pass
 
     # Additional methods for PUT and DELETE
+
+def get_all_book_data():
+    return ["Huge content from book P1","Huge content from book P2"]
+
+def browse_books_generator():
+    # Assuming 'get_all_book_data' retrieves a large number of books from the database
+    for book in get_all_book_data():
+        yield book
+    
+@app.route('/browse', methods=['GET'])
+def browse_books():
+    return Response(
+        (json.dumps(book) for book in browse_books_generator()),
+        mimetype='application/json'
+    )
 
 @app.route('/login', methods=['POST'])
 def login():
