@@ -28,6 +28,7 @@ For models and Loras [sheets here](https://docs.google.com/spreadsheets/d/19e7K1
 - [huggingface models](https://huggingface.co/models)
 - [chat-lmsys](https://chat.lmsys.org/)
 - [ais-ranked-by-iq-ai](https://www.maximumtruth.org/p/ais-ranked-by-iq-ai-passes-100-iq)
+- [artificialanalysis](https://artificialanalysis.ai/)
 
 ## Ollama
 
