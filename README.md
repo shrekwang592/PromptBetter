@@ -36,7 +36,7 @@ For models and Loras [sheets here](https://docs.google.com/spreadsheets/d/19e7K1
 [Download](https://ollama.com/download)
 
 ## open-webui
-[Github]https://github.com/open-webui/open-webui
+[Github](https://github.com/open-webui/open-webui)
 
 ## Prompt security
 
