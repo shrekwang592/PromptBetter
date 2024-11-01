@@ -35,6 +35,9 @@ For models and Loras [sheets here](https://docs.google.com/spreadsheets/d/19e7K1
 [Quick Start](https://github.com/ollama/ollama?tab=readme-ov-file#quickstart)
 [Download](https://ollama.com/download)
 
+## open-webui
+[Github]https://github.com/open-webui/open-webui
+
 ## Prompt security
 
 - [llm-guard](https://github.com/protectai/llm-guard)
