@@ -144,6 +144,8 @@ Check out these bots:
 
 ### What is the area we should focus on? about the great thoughts of a powerful, trustworthy, personalized agent
 
+[autogen](https://github.com/microsoft/autogen) 
+
 Not the "most responsible" [Goody-2](https://www.goody2.ai/chat)
 
 Neither a [clone](https://github.com/danny-avila/LibreChat)
