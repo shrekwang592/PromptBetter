@@ -40,7 +40,10 @@ For models and Loras [sheets here](https://docs.google.com/spreadsheets/d/19e7K1
 with basic support of RAG for local LLMs 
 
 ## AnythingLLM
-[AnythingLLM](https://anythingllm.com/) to improve the RAG performance for specific workspace
+[AnythingLLM](https://anythingllm.com/) to improve the RAG performance for specific workspaces
+
+# LLocalSearch
+[LLocalSearch](https://github.com/nilsherzig/LLocalSearch) local search works with Ollama and docker
 
 ## Prompt security
 
