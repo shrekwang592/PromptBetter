@@ -37,7 +37,10 @@ For models and Loras [sheets here](https://docs.google.com/spreadsheets/d/19e7K1
 
 ## open-webui
 [Github](https://github.com/open-webui/open-webui)
-with basic support of RAG for local LLMs and to improve the RAG it can work with [AnythingLLM](https://anythingllm.com/) 
+with basic support of RAG for local LLMs 
+
+## AnythingLLM
+[AnythingLLM](https://anythingllm.com/) to improve the RAG performance for specific workspace
 
 ## Prompt security
 
