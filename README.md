@@ -42,7 +42,10 @@ with basic support of RAG for local LLMs
 ## AnythingLLM
 [AnythingLLM](https://anythingllm.com/) to improve the RAG performance for specific workspaces
 
-# LLocalSearch
+## RAGflow
+[Github](https://github.com/infiniflow/ragflow) best RAG tool if you got 50G+ space on disk
+
+## LLocalSearch
 [LLocalSearch](https://github.com/nilsherzig/LLocalSearch) local search works with Ollama and docker
 
 ## Prompt security
