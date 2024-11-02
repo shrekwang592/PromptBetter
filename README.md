@@ -13,7 +13,7 @@ Official OpenAI guide for prompt engineering [guide here](https://platform.opena
 
 ## Gemini
 
-1M or 10M tokens [Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/#sundar-note)
+[Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/#sundar-note)
 
 ## Microsoft Promptbase
 
@@ -47,6 +47,9 @@ with basic support of RAG for local LLMs
 
 ## FastGPT
 [Github](https://github.com/labring/FastGPT) currently using
+
+## RapidOCRPDF & RapidOCR
+[Github](https://github.com/RapidAI/RapidOCRPDF)
 
 ## LLocalSearch
 [LLocalSearch](https://github.com/nilsherzig/LLocalSearch) local search works with Ollama and docker
