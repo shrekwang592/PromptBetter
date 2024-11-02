@@ -45,6 +45,9 @@ with basic support of RAG for local LLMs
 ## RAGflow
 [Github](https://github.com/infiniflow/ragflow) best RAG tool if you got 50G+ space on disk
 
+## FastGPT
+[Github](https://github.com/labring/FastGPT) currently using
+
 ## LLocalSearch
 [LLocalSearch](https://github.com/nilsherzig/LLocalSearch) local search works with Ollama and docker
 
