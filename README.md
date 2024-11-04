@@ -19,6 +19,9 @@ Official OpenAI guide for prompt engineering [guide here](https://platform.opena
 
 [Medprompt](https://github.com/microsoft/promptbase)
 
+## Exo
+[Local multiple devices](https://github.com/exo-explore/exo)
+
 ## Stable Diffusion
 
 For models and Loras [sheets here](https://docs.google.com/spreadsheets/d/19e7K1duTi8lOzzd569Qn_BKeS8hISXTxIFjiD72zTcc/edit#gid=0).
